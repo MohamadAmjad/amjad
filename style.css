@@ -1,0 +1,18 @@
+.HEAD {
+    display: flex;
+    background-color: #8d6e63;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 9px;
+}
+
+.HEAD img{
+    width: 110px ;
+    justify-content: space-between;
+    padding-left: 9px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+}
+a{
+    color: antiquewhite;
+}
